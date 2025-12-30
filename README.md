@@ -11,6 +11,6 @@ Meu nome é Giullia Antoniel
 
 00001112875608sp@al.educacao.sp.gov.br
 
-"https://assets.pinterest.com/ext/embed.html?id=144607838031794461" 
+<img src="https://assets.pinterest.com/ext/embed.html?id=144607838031794461">
 
 
