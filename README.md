@@ -11,6 +11,4 @@ Meu nome é Giullia Antoniel
 
 giullia.a.jorge@gmail.com 
 
-<img src="https://assets.pinterest.com/ext/embed.html?id=144607838031794461">
-
-
+![](https://media1.tenor.com/m/dlzYGThHPRwAAAAC/cat-nerd.gif)
