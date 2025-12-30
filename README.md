@@ -9,7 +9,7 @@ Meu nome é Giullia Antoniel
 
 ### Você pode entrar em contato comigo 📫
 
-00001112875608sp@al.educacao.sp.gov.br
+giullia.a.jorge@gmail.com 
 
 <img src="https://assets.pinterest.com/ext/embed.html?id=144607838031794461">
 
